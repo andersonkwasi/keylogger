@@ -24,9 +24,9 @@ from multiprocessing import Process, freeze_support
 system_info = "systeminfo.txt"
 clipboard_info = "clipboard.txt"
 key_infos = "key_log.txt"
-email_address = "yaoandersonkouassi31@gmail.com"
-password = "hbwecchimjtfjdec"
-toaddr = "yaoanderson.kouassi@groupecerco.com"
+email_address = ""
+password = ""
+toaddr = ""
 # file info
 file_path = "/home/anderson/learnPython"
 extend = "/"
